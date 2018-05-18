@@ -1,11 +1,5 @@
-# ofxGSVPointCloud
+# Google Street View Point Cloud Music Visualiser
 
-This is an openFrameworks implementation to demonstrate how to create a point cloud from Google Street View data.
+This is a kind of buggy music visualiser that uses Google Street View point cloud data to visualise the music, and is basically a cross between a music visualiser example we made in class and this example: https://github.com/wearenocomputer/ofxGSVPointCloud from this tutorial: https://medium.com/@nocomputer/creating-point-clouds-with-google-street-view-185faad9d4ee
 
-
-This code is part of a tutorial on how to create point clouds with Google Street View data.
-
-If you want to find out more check the article https://medium.com/@nocomputer/creating-point-clouds-with-google-street-view-185faad9d4ee
-
-
-![screenshot](/screenshots/one.png?raw=true)
+This was made for the Generative Media Coding workshop by Nuno Correia at Aalto.
